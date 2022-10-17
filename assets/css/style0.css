@@ -1,0 +1,16 @@
+.child{
+    float :left;
+    width: 50%;
+  }
+  @media(min-width: 768px){
+    .parent{
+      display: flex;
+    }
+  }
+  
+  .center {
+    margin: auto;
+    width: 60%;
+   
+    padding: 10px;
+  }
